@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21426308-f7d9-4b40-b5a7-7ed417df36ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/piToArduino.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+    <list default="true" id="21426308-f7d9-4b40-b5a7-7ed417df36ba" name="Changes" comment="Added piToArduino code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/piToArduino.py" beforeDir="false" afterPath="$PROJECT_DIR$/piToArduino.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +80,22 @@
       <workItem from="1794864049290" duration="5000" />
       <workItem from="1794864265328" duration="315000" />
     </task>
+    <task id="LOCAL-00001" summary="Added piToArduino code">
+      <option name="closed" value="true" />
+      <created>1794932630014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794932630014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added piToArduino code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added piToArduino code" />
   </component>
 </project>
